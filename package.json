@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/fixtable",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fix color table values and contrast-safe presentation helpers.",
+  "bin": {
+    "fixtable": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/fixtable.git"
+  },
+  "homepage": "https://theworker02.github.io/fixtable/",
+  "keywords": [
+    "fix",
+    "table",
+    "color",
+    "cli",
+    "toolkit"
+  ]
+}
